@@ -1,0 +1,155 @@
+.navbar-nav a:hover{
+    color: blue;
+}
+.nav-item a{
+    color: #ffd7ad;
+}
+.bg{
+    background-image: url(./img/Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\)\ \(30\).png);
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.title{
+    color: #ffd7ad;
+}
+.title h1{
+    font-size: 80px;
+}
+.title p{
+    width: 50%;
+}
+.title button{
+    background-color: #ffd7ad;
+    color: #4a1831;
+    font-weight: 700;
+}
+.sec-two{
+    background-color: #ffd7ad;
+}
+.text{
+    color: #4a1831;
+}
+.text h2{
+    font-size: 45px;
+    font-weight: 700;
+}
+.text p{
+    width: 60%;
+}
+.text button{
+    color: #ffd7ad;
+    background-color: #4a1831;
+    font-weight: 700;
+}
+.sec-three{
+    background-color: #ffd7ad;
+}
+.text-two{
+    color: #4a1831;
+}
+.text-two h3{
+    font-size: 50px;
+}
+.text-two p{
+    width: 80%;
+}
+.text-two button{
+    background-color: #4a1831;
+    color: #ffd7ad;
+    font-weight: 700;
+}
+.sec-four{
+    background-color: #ffd7ad;
+    background-image: url(./img/Vector\ Smart\ Object\ \(Double\ Click\ to\ Edit\)\ \(9\).png);
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.text-three p{
+    font-size: 150px;
+    padding-top: 80px;
+}
+.text-three h4{
+    color: #55112e;
+    font-size: 80px;
+}
+.text-three h5{
+    font-size: 110px;
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+}
+.sec-five{
+    background-color: #55112e;
+    
+}
+.text-four{
+    color: #ffd7ad;
+}
+.text-four h2{
+    font-size: 60px;
+
+}
+.text-four button{
+    color: #4a1831;
+    background-color: #ffd7ad;
+}
+.sec-six{
+    background-image: linear-gradient(rgba(74,24,49,0.8),rgba(74,24,49,0.8)), url(./img/Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\)\ \(31\).png);
+    background-position: center;
+    background-size: cover;
+    padding: 90px 0 100px 0;
+}
+.text-five{
+    color: #ffd7ad;
+    margin-top: 100px;
+}
+.text-five p{
+    width: 60%;
+    margin-top: 50px;
+}
+.text-five span{
+    font-size: 30px;
+}
+.sec-sevan{
+    background-color: #ffd7ad;
+}
+.text-six{
+    color: #55112e;
+}
+.text-six h3{
+    font-size: 50px;
+}
+.text-six p{
+    width: 60%;
+    font-weight: 600;
+}
+.tex{
+    display: flex;
+}
+.tex input[type=email]{
+    width: 350px;
+}
+.tex input[type=button]{
+    background-color: #55112e;
+    color: #ffd7ad;
+    font-weight: 700;
+}
+.sec-eight{
+    background-color: #55112e;
+}
+footer{
+    color: #ffd7ad;
+}
+footer i{
+    background-color: #ffd7ad;
+    color: #55112e;
+}
+footer ul{
+    list-style: none;
+}
+footer ul li a{
+    text-decoration: none;
+    color: #ffd7ad;
+
+}
